@@ -20,7 +20,7 @@ Hypexel is a fork of PocketMine-MP(http://github.com/PocketMine/PocketMine-MP) t
 	along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-What does Hypexel have to offer?
+# What does Hypexel have to offer?
 
 New and improved console look
 Improved color scheme
